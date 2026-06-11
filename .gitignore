@@ -1,0 +1,10 @@
+# Hugo default output
+public/
+resources/
+
+# OS junk
+.DS_Store
+
+# Cloudflare
+.cloudflare
+.wrangler
