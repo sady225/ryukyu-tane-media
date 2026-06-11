@@ -37,4 +37,4 @@ defaultContentLanguageInSubdir = true
 [params]
   author = "佐渡山 要 / Kaname Sadoyama"
   since = "2026"
-theme = "ryukyu"
+# theme = "ryukyu" (Moved to root layouts)
