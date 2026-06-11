@@ -1,7 +1,7 @@
 baseURL = "https://news.ryukyu-tane.com/"
 title = "琉球のタネ"
 defaultContentLanguage = "ja"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.ja]
